@@ -25,6 +25,7 @@
   "backend.imageHosting.wiznote.name": "为知笔记",
   "backend.imageHosting.wiznote.builtInRemark": "为知笔记内置图床",
   "backend.not.unavailable": "暂时无法剪辑此类型的页面。\n\n刷新页面可以解决。",
+  "backend.services.affine.form.confirm": "请确认您安装了 AFFiNE 客户端。",
   "backend.services.baklib.form.authentication": "授权",
   "backend.services.baklib.headerForm.channel": "栏目",
   "backend.services.baklib.headerForm.description": "描述",

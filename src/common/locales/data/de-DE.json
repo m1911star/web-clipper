@@ -23,6 +23,7 @@
   "backend.imageHosting.yuque_oauth.name": "Yuque Oauth",
   "backend.imageHosting.yuque.name": "Yuque",
   "backend.not.unavailable": "Das Ausschneiden dieser Art von Seite ist vorübergehend nicht verfügbar.\n\nDas Aktualisieren der Seite kann das Problem lösen.",
+  "backend.services.affine.form.confirm": "",
   "backend.services.baklib.form.authentication": "Authentifizierung",
   "backend.services.baklib.headerForm.channel": "",
   "backend.services.baklib.headerForm.description": "",

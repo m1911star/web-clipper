@@ -23,6 +23,7 @@
   "backend.imageHosting.yuque_oauth.name": "語雀(一鍵授權)",
   "backend.imageHosting.yuque.name": "語雀",
   "backend.not.unavailable": "",
+  "backend.services.affine.form.confirm": "請確認您安裝了 AFFiNE 客戶端。",
   "backend.services.baklib.form.authentication": "",
   "backend.services.baklib.headerForm.channel": "欄目",
   "backend.services.baklib.headerForm.description": "描述",
